@@ -3,6 +3,7 @@
 // ####################################
 
 function attendees() {
+  let name = prompt('What is your name')
   let count = 0
   let numOfAttendees = 5
   let attendeeList = ''
