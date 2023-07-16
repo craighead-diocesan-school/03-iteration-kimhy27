@@ -16,6 +16,7 @@ function make1() {
   let maximum = prompt('Enter the maximum number to count to.') 
   let increment = prompt('Enter the increment.') 
   while (count <= maximum) {
-    alert()
+    alert(count)
+    0 + increment 
   }
 }
